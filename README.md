@@ -1,12 +1,9 @@
-# Welcome to my page!
+# Welcome to Tucker's Github! :v:
 
-### What's up! My name is Tucker :v:
-I'm currently studying Computer Science at Cal State San Marcos :school:
+## :school:: Bachelor's of Computer Science at California State San Marcos (In Progress)
 
-### What's this? A pokemon!
-[![PokeballSuccess](https://cdn3.emoji.gg/emojis/8839-pokeballsuccess.gif)](https://emoji.gg/emoji/8839-pokeballsuccess)
+## 💻: C, C++, C#, Python, Javascript, HTML, and Terraform. I am willing to learn anything so long as it gets the job done.
 
-#### Wow I caught a Gengar!
+### Check out my [LinkedIn](https://www.linkedin.com/in/tucker-shaw-a96601156/)!
+
 ![Gengar](images/Gengar.png)
-
-Fun fact: I am a big fan of Pokemon and Gengar is one of my favorites!
