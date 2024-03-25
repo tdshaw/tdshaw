@@ -7,3 +7,5 @@
 ## I am willing to learn anything so long as it gets the job done.
 
 ### Check out my [LinkedIn](https://www.linkedin.com/in/tucker-shaw-a96601156/)!
+
+### And my [Portfolio](https://tuckersportfolio.com)!
