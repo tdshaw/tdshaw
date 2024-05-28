@@ -1,6 +1,6 @@
 # Welcome to Tucker's Github! :v:
 
-## :school:: Bachelor of Computer Science at California State San Marcos (In Progress)
+## :school:: Bachelor of Computer Science from California State University - San Marcos
 
 ## 💻: Bash, C, C++, C#, Python, Javascript, HTML, and Terraform. 
 
