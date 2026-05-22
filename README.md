@@ -8,4 +8,4 @@
 
 ### Check out my [LinkedIn](https://www.linkedin.com/in/tucker-shaw-a96601156/)!
 
-### And my [Portfolio](https://tuckersportfolio.com)!
+### And my [Portfolio](https://tdshaw.github.io)!
